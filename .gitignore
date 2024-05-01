@@ -1,3 +1,6 @@
 vendor/
 .php_cs.cache
 .idea/
+.phpunit.cache
+.phpunit.result.cache
+*.bak
